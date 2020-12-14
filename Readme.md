@@ -1,1 +1,1 @@
-print("Read me si ja")
+This is my first git rep ja :)
